@@ -1,0 +1,11 @@
+.container{
+    background-color: rgb(56, 201, 203);
+    padding: 20px;
+    color: rgb(56, 55, 55);
+    border: 2px solid rgb(56, 55, 55);
+    margin-top: 10vh;
+}
+
+.container h1{
+    text-align: center;
+}
